@@ -1,0 +1,998 @@
+species,index
+Unxia camphorata L.f.,0
+Connarus fasciculatus (DC.) Planch.,1
+Jacquemontia tamnifolia (L.) Griseb.,2
+Maripa glabra Choisy,3
+Maripa violacea (Aubl.) Ooststr. ex Lanj. Uittien,4
+Merremia umbellata (L.) Hallier f.,5
+Costus arabicus L.,6
+Costus claviger Benoist,7
+Costus erythrothyrsus Loes.,8
+Costus scaber Ruiz Pav.,9
+Costus spiralis (Jacq.) Roscoe,10
+Bryophyllum pinnatum (Lam.) Oken,11
+Gurania reticulata Cogn.,12
+Melothria pendula L.,13
+Cyathea microdonta (Desv.) Domin,14
+Cyathea pungens (Willd.) Domin,15
+Cyathea surinamensis (Miq.) Domin,16
+Evodianthus funifer (Poit.) Lindm.,17
+Hymenocallis tubiflora Salisb.,18
+Pteridium arachnoideum (Kaulf.) Maxon,19
+Tapura guianensis Aubl.,20
+Davilla kunthii A.St.-Hil.,21
+Cyclodium meniscioides (Willd.) C. Presl,22
+Olfersia cervina (L.) Kunze,23
+Polybotrya caudata Kunze,24
+Polybotrya osmundacea Humb. Bonpl. ex Willd.,25
+Diospyros capreifolia Mart. ex Hiern,26
+Diospyros carbonaria Benoist,27
+Diospyros cayennensis A.DC.,28
+Diospyros dichroa Sandwith,29
+Diospyros discolor Willd.,30
+Diospyros lissocarpoides Sandwith,31
+Diospyros matheriana A.C.Sm.,32
+Diospyros sericea A.DC.,33
+Diospyros tetrandra Hiern,34
+Diospyros vestita Benoist,35
+Sloanea eichleri K.Schum.,36
+Sloanea grandiflora Sm.,37
+Sloanea guianensis (Aubl.) Benth.,38
+Sloanea latifolia (Rich.) K.Schum.,39
+Anacardium occidentale L.,40
+Cavendishia callista Donn.Sm.,41
+Mangifera indica L.,42
+Sphyrospermum cordifolium Benth.,43
+Syngonanthus caulescens (Poir.) Ruhland,44
+Tonina fluviatilis Aubl.,45
+Erythroxylum amazonicum Peyr.,46
+Erythroxylum fimbriatum Peyr.,47
+Erythroxylum macrophyllum Cav.,48
+Erythroxylum squamatum Sw.,49
+Conceveiba martiana Baill.,50
+Spondias mombin L.,51
+Tapirira guianensis Aubl.,52
+Tapirira obtusa (Benth.) J.D.Mitch.,53
+Thyrsodium guianense Sagot ex Marchand,54
+Croton matourensis Aubl.,55
+Thyrsodium spruceanum Benth.,56
+Croton nuntians Croizat,57
+Croton schiedeanus Schltdl.,58
+Dalechampia tiliifolia Lam.,59
+Euphorbia cotinifolia L.,60
+Euphorbia heterophylla L.,61
+Euphorbia hyssopifolia L.,62
+Euphorbia prostrata Aiton,63
+Euphorbia thymifolia L.,64
+Euphorbia tithymaloides L.,65
+Glycydendron amazonicum Ducke,66
+Anaxagorea dolichocarpa Sprague Sandwith,67
+Hura crepitans L.,68
+Jatropha curcas L.,69
+Jatropha gossypiifolia L.,70
+Mabea subsessilis Pax K.Hoffm.,71
+Annona ambotay Aubl.,72
+Manihot baccata Allem,73
+Annona foetida Mart.,74
+Maprounea guianensis Aubl.,75
+Annona glabra L.,76
+Annona haematantha Miq.,77
+Omphalea diandra L.,78
+Ricinus communis L.,79
+Sagotia racemosa Baill.,80
+Sandwithia guyanensis Lanj.,81
+Sapium glandulosum (L.) Morong,82
+Sapium paucinervium Hemsl.,83
+Annona muricata L.,84
+Annona neoelliptica H.Rainer Maas,85
+Annona paludosa Aubl.,86
+Annona prevostiae H.Rainer,87
+Annona sericea Dunal,88
+Chelonanthus alatus (Aubl.) Pulle,89
+Cremastosperma brevipes (DC. ex Dunal) R.E.Fr.,90
+Cymbopetalum brasiliense (Vell.) Benth. ex Baill.,91
+Potalia amara Aubl.,92
+Tachia guianensis Aubl.,93
+Voyria caerulea Aubl.,94
+Voyria rosea Aubl.,95
+Duguetia calycina Benoist,96
+Duguetia eximia Diels,97
+Duguetia inconspicua Sagot,98
+Chrysothemis pulchella (Donn ex Sims) Decne.,99
+Duguetia surinamensis R.E.Fr.,100
+Duguetia yeshidan Sandwith,101
+Ephedranthus guianensis R.E.Fr.,102
+Lembocarpus amoenus Leeuwenb.,103
+Fusaea longifolia (Aubl.) Saff.,104
+Sinningia incarnata (Aubl.) D.L.Denham,105
+Dicranopteris flexuosa (Schrad.) Underw.,106
+Dicranopteris pectinata (Willd.) Underw.,107
+Gnetum urens (Aubl.) Blume,108
+Goupia glabra Aubl.,109
+Heliconia chartacea Lane ex Barreiros,110
+Heliconia densiflora Verl.,111
+Heliconia hirsuta L.f.,112
+Heliconia pendula Wawra,113
+Heliconia psittacorum L.f.,114
+Heliconia richardiana Miq.,115
+Hernandia guianensis Aubl.,116
+Sparattanthelium uncigerum (Meisn.) Kubitzki,117
+Guatteria guianensis (Aubl.) R.E.Fr.,118
+Guatteria intermedia Scharf,119
+Guatteria liesneri D.M.Johnson N.A.Murray,120
+Hymenophyllum decurrens (Jacq.) Sw.,121
+Hymenophyllum hirsutum (L.) Sw.,122
+Guatteria ouregou (Aubl.) Dunal,123
+Guatteria pannosa Scharf Maas,124
+Trichomanes ankersii C. Parker ex Hook. Grev.,125
+Trichomanes arbuscula Desv.,126
+Trichomanes crispum L.,127
+Trichomanes diversifrons (Bory) Mett. ex Sadeb.,128
+Trichomanes elegans Rich.,129
+Trichomanes krausii Hook. Grev.,130
+Trichomanes pedicellatum Desv.,131
+Trichomanes pinnatum Hedw.,132
+Trichomanes punctatum Poir.,133
+Trichomanes trollii Bergdolt,134
+Trichomanes vittaria DC. ex Poir.,135
+Guatteria scandens Ducke,136
+Guatteria schomburgkiana Mart.,137
+Vismia cayennensis (Jacq.) Pers.,138
+Vismia latifolia (Aubl.) Choisy,139
+Vismia ramuliflora Miq.,140
+Vismia sessilifolia (Aubl.) Choisy,141
+Didymochlaena truncatula (Sw.) J. Sm.,142
+Emmotum fagifolium Desv. ex Ham.,143
+Cipura paludosa Aubl.,144
+Eleutherine bulbosa (Mill.) Urb.,145
+Oxandra asbeckii (Pulle) R.E.Fr.,146
+Oxandra xylopioides Diels,147
+Lacistema aggregatum (P.J.Bergius) Rusby,148
+Lacistema grandifolium Schnizl.,149
+Lacistema polystachyum Schnizl.,150
+Aegiphila macrantha Ducke,151
+Aegiphila villosa (Aubl.) J.F.Gmel.,152
+Amasonia campestris (Aubl.) Moldenke,153
+Clerodendrum paniculatum L.,154
+Congea tomentosa Roxb.,155
+Pseudoxandra cuspidata Maas,156
+Gmelina philippensis Cham.,157
+Holmskioldia sanguinea Retz.,158
+Hyptis lanceolata Poir.,159
+Rollinia mucosa (Jacq.) Baill.,160
+Hyptis mutabilis (Rich.) Briq.,161
+Marsypianthes chamaedrys (Vahl) Kuntze,162
+Trigynaea caudata (R.E. Fr.) R.E. Fr.,163
+Trigynaea duckei (R.E.Fr.) R.E.Fr.,164
+Unonopsis glaucopetala R.E.Fr.,165
+Unonopsis guatterioides (A.DC.) R.E.Fr.,166
+Unonopsis perrottetii (A. DC.) R.E. Fr.,167
+Unonopsis rufescens (Baill.) R.E. Fr.,168
+Ocimum campechianum Mill.,169
+Unonopsis stipitata Diels,170
+Orthosiphon aristatus (Blume) Miq.,171
+Plectranthus amboinicus (Lour.) Spreng.,172
+Xylopia aromatica (Lam.) Mart.,173
+Xylopia cayennensis Maas,174
+Xylopia crinita R.E.Fr.,175
+Xylopia frutescens Aubl.,176
+Xylopia nitida Dunal,177
+Xylopia surinamensis R.E. Fr.,178
+Vitex orinocensis Kunth,179
+Aiouea guianensis Aubl.,180
+Aiouea longipetiolata van der Werff,181
+Aiouea opaca van der Werff,182
+Aniba citrifolia (Nees) Mez,183
+Aniba guianensis Aubl.,184
+Aniba kappleri Mez,185
+Aniba megaphylla Mez,186
+Aniba panurensis (Meisn.) Mez,187
+Aniba parviflora (Meisn.) Mez,188
+Aniba taubertiana Mez,189
+Endlicheria canescens Chanderbali,190
+Endlicheria punctulata (Mez) C.K.Allen,191
+Endlicheria pyriformis (Nees) Mez,192
+Kubitzkia mezii (Kosterm.) van der Werff,193
+Licaria chrysophylla (Meisn.) Kosterm.,194
+Licaria martiniana (Mez) Kosterm.,195
+Licaria pachycarpa (Meisn.) Kosterm.,196
+Nectandra amazonum Nees,197
+Nectandra cissiflora Nees,198
+Ocotea amazonica (Meisn.) Mez,199
+Ocotea argyrophylla Ducke,200
+Ocotea cernua (Nees) Mez,201
+Ocotea cinerea van der Werff,202
+Ocotea cujumary Mart.,203
+Ocotea diffusa van der Werff,204
+Ocotea floribunda (Sw.) Mez,205
+Ocotea glomerata (Nees) Mez,206
+Ocotea leucoxylon (Sw.) Laness.,207
+Ocotea longifolia Kunth,208
+Ocotea nigra Benoist,209
+Ocotea oblonga (Meisn.) Mez,210
+Ocotea percurrens Vicent.,211
+Ocotea puberula (Rich.) Nees,212
+Ocotea scabrella van der Werff,213
+Ocotea splendens (Meisn.) Baill.,214
+Ocotea subterminalis van der Werff,215
+Rhodostemonodaphne grandis (Mez) Rohwer,216
+Couratari guianensis Aubl.,217
+Couratari multiflora (Sm.) Eyma,218
+Couratari stellata A.C.Sm.,219
+Eschweilera coriacea (DC.) S.A.Mori,220
+Eschweilera decolorans Sandwith,221
+Eschweilera grandiflora (Aubl.) Sandwith,222
+Eschweilera micrantha (O.Berg) Miers,223
+Eschweilera parviflora (Aubl.) Miers,224
+Eschweilera pedicellata (Rich.) S.A.Mori,225
+Eschweilera sagotiana Miers,226
+Eschweilera squamata S.A.Mori,227
+Eschweilera subglandulosa (Steud. ex O.Berg) Miers,228
+Gustavia augusta L.,229
+Gustavia hexapetala (Aubl.) Sm.,230
+Lecythis chartacea O.Berg,231
+Lecythis corrugata Poit.,232
+Lecythis holcogyne (Sandwith) S.A.Mori,233
+Lecythis idatimon Aubl.,234
+Lecythis persistens Sagot,235
+Lecythis poiteaui O.Berg,236
+Lecythis zabucajo Aubl.,237
+Abarema gallorum Barneby J.W.Grimes,238
+Abarema jupunba (Willd.) Britton Killip,239
+Acacia mangium Willd.,240
+Acacia tenuifolia (L.) Willd.,241
+Alexa wachenheimii Benoist,242
+Bauhinia guianensis Aubl.,243
+Bocoa prouacensis Aubl.,244
+Caesalpinia pulcherrima (L.) Sw.,245
+Cajanus cajan (L.) Millsp.,246
+Calliandra surinamensis Benth.,247
+Cassia grandis L.f.,248
+Cassia spruceana Benth.,249
+Chamaecrista apoucouita (Aubl.) H.S.Irwin Barneby,250
+Chamaecrista desvauxii (Collad.) Killip,251
+Chamaecrista diphylla (L.) Greene,252
+Chamaecrista nictitans (L.) Moench,253
+Clitoria sagotii Fantz,254
+Crotalaria retusa L.,255
+Crudia bracteata Benth.,256
+Crudia oblonga Benth.,257
+Crudia tomentosa (Aubl.) J.F.Macbr.,258
+Cynometra hostmanniana Tul.,259
+Dalbergia monetaria L.f.,260
+Eryngium foetidum L.,261
+Dialium guianense (Aubl.) Sandwith,262
+Dicorynia guianensis Amshoff,263
+Dioclea guianensis Benth.,264
+Dioclea macrocarpa Huber,265
+Diplotropis purpurea (Rich.) Amshoff,266
+Dussia discolor (Benth.) Amshoff,267
+Entada polystachya (L.) DC.,268
+Enterolobium oldemanii Barneby J.W.Grimes,269
+Eperua falcata Aubl.,270
+Eperua rubiginosa Miq.,271
+Erythrina fusca Lour.,272
+Hymenaea courbaril L.,273
+Inga acrocephala Steud.,274
+Inga alata Benoist,275
+Inga alba (Sw.) Willd.,276
+Inga capitata Desv.,277
+Inga edulis Mart.,278
+Inga fanchoniana Poncy,279
+Inga huberi Ducke,280
+Inga ingoides (Rich.) Willd.,281
+Inga jenmanii Sandwith,282
+Inga lateriflora Miq.,283
+Inga nobilis Willd.,284
+Inga nouragensis Poncy,285
+Inga paraensis Ducke,286
+Inga pezizifera Benth.,287
+Inga pilosula (Rich.) J.F.Macbr.,288
+Inga poeppigiana Benth.,289
+Inga retinocarpa Poncy,290
+Inga sarmentosa Glaz. ex Harms,291
+Inga sertulifera DC.,292
+Inga striata Benth.,293
+Inga thibaudiana DC.,294
+Machaerium lunatum (L.f.) Ducke,295
+Macrolobium acaciifolium (Benth.) Benth.,296
+Macrolobium bifolium (Aubl.) Pers.,297
+Mimosa guilandinae (DC.) Barneby,298
+Mimosa pigra L.,299
+Mimosa pudica L.,300
+Mucuna sloanei Fawc. Rendle,301
+Ormosia coccinea (Aubl.) Jacks.,302
+Ormosia costulata (Miq.) Kleinhoonte,303
+Ormosia melanocarpa Kleinhoonte,304
+Ormosia paraensis Ducke,305
+Paramachaerium ormosioides (Ducke) Ducke,306
+Parkia nitida Miq.,307
+Parkia ulei (Harms) Kuhlm.,308
+Parkia velutina Benoist,309
+Peltogyne lecointei Ducke,310
+Pentaclethra macroloba (Willd.) Kuntze,311
+Poecilanthe effusa (Huber) Ducke,312
+Poecilanthe hostmannii (Benth.) Amshoff,313
+Pseudopiptadenia suaveolens (Miq.) J.W. Grimes,314
+Pterocarpus officinalis Jacq.,315
+Sclerolobium guianense Benth.,316
+Sclerolobium melinonii Harms,317
+Senna alata (L.) Roxb.,318
+Senna chrysocarpa (Desv.) H.S.Irwin Barneby,319
+Senna obtusifolia (L.) H.S.Irwin Barneby,320
+Senna occidentalis (L.) Link,321
+Spirotropis longifolia (DC.) Baill.,322
+Stryphnodendron guianense (Aubl.) Benth.,323
+Swartzia aptera DC.,324
+Swartzia arborescens (Aubl.) Pittier,325
+Swartzia benthamiana Miq.,326
+Swartzia guianensis (Aubl.) Urb.,327
+Swartzia longicarpa Amshoff,328
+Swartzia panacoco (Aubl.) Cowan,329
+Swartzia polyphylla DC.,330
+Tachigali melanocarpa (Ducke) van der Werff,331
+Tachigali melinonii (Harms) Zarucchi Herend.,332
+Tachigali paniculata Aubl.,333
+Tachigali paraensis (Huber) Barneby,334
+Tachigali richardiana Tul.,335
+Taralea oppositifolia Aubl.,336
+Vatairea erythrocarpa (Ducke) Ducke,337
+Vouacapoua americana Aubl.,338
+Zygia racemosa (Ducke) Barneby J.W. Grimes,339
+Zygia sabatieri Barneby J.W. Grimes,340
+Utricularia foliosa L.,341
+Utricularia hispida Lam.,342
+Utricularia subulata L.,343
+Lindernia crustacea (L.) F.Muell.,344
+Lindsaea divaricata Klotzsch,345
+Lindsaea guianensis (Aubl.) Dryand.,346
+Lindsaea lancea (L.) Bedd.,347
+Lindsaea quadrangularis Raddi,348
+Lindsaea stricta (Sw.) Dryand.,349
+Spigelia anthelmia L.,350
+Spigelia hamelioides Kunth,351
+Strychnos cayennensis Krukoff Barneby,352
+Strychnos tomentosa Benth.,353
+Cladocolea micrantha (Eichler) Kuijt,354
+Huperzia taxifolia (Sw.) Trevis.,355
+Lygodium venustum Sw.,356
+Lygodium volubile Sw.,357
+Cuphea carthagenensis (Jacq.) J.F.Macbr.,358
+Lafoensia vandelliana Cham. Schltdl.,359
+Lagerstroemia speciosa (L.) Pers.,360
+Punica granatum L.,361
+Bunchosia argentea (Jacq.) DC.,362
+Byrsonima christianeae W.R.Anderson,363
+Abelmoschus moschatus Medik.,364
+Adansonia digitata L.,365
+Allamanda cathartica L.,366
+Apeiba tibourbou Aubl.,367
+Byttneria cordifolia Sagot,368
+Catostemma fragrans Benth.,369
+Ceiba pentandra (L.) Gaertn.,370
+Gossypium barbadense L.,371
+Ambelania acida Aubl.,372
+Guazuma ulmifolia Lam.,373
+Helicteres pentandra L.,374
+Hibiscus furcellatus Desr.,375
+Hibiscus rosa-sinensis L.,376
+Huberodendron swietenioides (Gleason) Ducke,377
+Lueheopsis rugosa (Pulle) Burret,378
+Ochroma pyramidale (Cav. ex Lam.) Urb.,379
+Pachira dolichocalyx A. Robyns,380
+Asclepias curassavica L.,381
+Quararibea duckei Huber,382
+Quararibea guianensis Aubl.,383
+Quararibea turbinata (Sw.) Poir.,384
+Sida rhombifolia L.,385
+Sterculia frondosa Rich.,386
+Sterculia pruriens (Aubl.) K.Schum.,387
+Sterculia villifera Steud.,388
+Theobroma cacao L.,389
+Theobroma subincanum Mart.,390
+Theobroma velutinum Benoist,391
+Maranta rupicola L.Andersson,392
+Danaea nodosa (L.) Sm.,393
+Danaea simplicifolia Rudge,394
+Marcgravia pedunculosa Triana Planch.,395
+Norantea guianensis Aubl.,396
+Souroubea guianensis Aubl.,397
+Aspidosperma sandwithianum Markgr.,398
+Aciotis indecora (Bonpl.) Triana,399
+Aciotis purpurascens (Aubl.) Triana,400
+Adelobotrys adscendens (Sw.) Triana,401
+Appendicularia thymifolia (Bonpl.) DC.,402
+Bellucia grossularioides (L.) Triana,403
+Clidemia conglomerata DC.,404
+Clidemia hirta (L.) D. Don,405
+Clidemia laevifolia Gleason,406
+Clidemia petiolata DC.,407
+Clidemia septuplinervia Cogn.,408
+Comolia villosa (Aubl.) Triana,409
+Desmoscelis villosa (Aubl.) Naudin,410
+Ernestia confertiflora Wurdack,411
+Ernestia glandulosa Gleason,412
+Henriettea succosa (Aubl.) DC.,413
+Henriettella flavescens (Aubl.) Triana,414
+Blepharodon pictum (Vahl) W.D.Stevens,415
+Leandra divaricata (Naudin) Cogn.,416
+Leandra rufescens (DC.) Cogn.,417
+Leandra solenifera Cogn.,418
+Loreya mespiloides Miq.,419
+Macrocentrum cristatum (DC.) Triana,420
+Maieta guianensis Aubl.,421
+Miconia acuminata (Steud.) Naudin,422
+Miconia affinis DC.,423
+Miconia alata (Aubl.) DC.,424
+Miconia argyrophylla DC.,425
+Miconia bracteata (DC.) Triana,426
+Miconia ceramicarpa (DC.) Cogn.,427
+Miconia chrysophylla (Rich.) Urb.,428
+Miconia ciliata (Rich.) DC.,429
+Miconia diaphanea Gleason,430
+Miconia egensis Cogn.,431
+Miconia holosericea (L.) DC.,432
+Miconia lateriflora Cogn.,433
+Miconia longifolia (Aubl.) DC.,434
+Miconia melinonis Naudin,435
+Miconia minutiflora (Bonpl.) DC.,436
+Miconia nervosa (Sm.) Triana,437
+Miconia plukenetii Naudin,438
+Miconia poeppigii Triana,439
+Miconia prasina (Sw.) DC.,440
+Miconia pubipetala Miq.,441
+Miconia racemosa (Aubl.) DC.,442
+Miconia serialis DC.,443
+Miconia serrulata (DC.) Naudin,444
+Miconia splendens (Sw.) Griseb.,445
+Miconia tomentosa (Rich.) D. Don ex DC.,446
+Mouriri collocarpa Ducke,447
+Mouriri crassifolia Sagot,448
+Mouriri grandiflora DC.,449
+Mouriri nervosa Pilg.,450
+Mouriri oligantha Pilg.,451
+Mouriri sagotiana Triana,452
+Mouriri vernicosa Naudin,453
+Nepsera aquatica (Aubl.) Naudin,454
+Pterolepis glomerata (Rottb.) Miq.,455
+Rhynchanthera grandiflora (Aubl.) DC.,456
+Tibouchina aspera Aubl.,457
+Tococa guianensis Aubl.,458
+Topobea parasitica Aubl.,459
+Votomita guianensis Aubl.,460
+Carapa guianensis Aubl.,461
+Cedrela odorata L.,462
+Guarea guidonia (L.) Sleumer,463
+Swietenia mahagoni (L.) Jacq.,464
+Trichilia micrantha Benth.,465
+Trichilia pallida Sw.,466
+Trichilia schomburgkii C.DC.,467
+Abuta sandwithiana Krukoff Barneby,468
+Metaxya rostrata (Kunth) C. Presl,469
+Brosimum rubescens Taub.,470
+Ficus leiophylla C.C.Berg,471
+Justicia betonica L.,472
+Ficus schumacheri (Liebm.) Griseb.,473
+Ficus trigona L.f.,474
+Pseudolmedia laevis (Ruiz Pav.) J.F.Macbr.,475
+Trymatococcus amazonicus Poepp. Endl.,476
+Iryanthera paraensis Huber,477
+Iryanthera sagotiana (Benth.) Warb.,478
+Couma guianensis Aubl.,479
+Calycorectes bergii Sandwith,480
+Calycorectes grandifolius O.Berg,481
+Campomanesia grandiflora (Aubl.) Sagot,482
+Eugenia albicans (O.Berg) Urb.,483
+Eugenia anastomosans DC.,484
+Eugenia argyrophylla B.Holst M.L.Kawas.,485
+Eugenia armeniaca Sagot,486
+Eugenia biflora (L.) DC.,487
+Eugenia coffeifolia DC.,488
+Eugenia cupulata Amshoff,489
+Eugenia florida DC.,490
+Eugenia gongylocarpa M.L.Kawas. B.K.Holst,491
+Justicia calycina (Nees) V.A.W.Graham,492
+Eugenia lambertiana DC.,493
+Eugenia latifolia Aubl.,494
+Eugenia patrisii Vahl,495
+Eugenia pseudopsidium Jacq.,496
+Eugenia punicifolia (Kunth) DC.,497
+Eugenia ramiflora Desv. ex Ham.,498
+Eugenia spruceana O.Berg,499
+Eugenia stictopetala DC.,500
+Myrcia amazonica DC.,501
+Myrcia bracteata (Rich.) DC.,502
+Myrcia decorticans DC.,503
+Myrcia guianensis (Aubl.) DC.,504
+Myrcia multiflora (Lam.) DC.,505
+Myrcia rupta M.L.Kawas. B.K.Holst,506
+Myrcia saxatilis (Amshoff) McVaugh,507
+Myrcia splendens (Sw.) DC.,508
+Myrcia sylvatica (G.Mey.) DC.,509
+Myrcia tomentosa (Aubl.) DC.,510
+Myrciaria floribunda (H.West ex Willd.) O.Berg,511
+Psidium guajava L.,512
+Psidium guineense Sw.,513
+Nephrolepis biserrata (Sw.) Schott,514
+Nephrolepis rivularis (Vahl) Mett. ex Krug,515
+Neea floribunda Poepp. Endl.,516
+Elvasia elvasioides (Planch.) Gilg,517
+Elvasia macrostipularis Sastre Lescure,518
+Ouratea cerebroidea Sastre,519
+Ouratea guianensis Aubl.,520
+Ouratea pendula Poepp. ex Engl.,521
+Ouratea scottii Sastre,522
+Quiina integrifolia Pulle,523
+Quiina obovata Tul.,524
+Chaunochiton kappleri (Sagot ex Engl.) Ducke,525
+Heisteria cauliflora Sm.,526
+Heisteria densifrons Engl.,527
+Heisteria ovata Benth.,528
+Minquartia guianensis Aubl.,529
+Jasminum sambac (L.) Aiton,530
+Forsteronia acouci (Aubl.) A.DC.,531
+Ludwigia affinis (DC.) H.Hara,532
+Ludwigia erecta (L.) H.Hara,533
+Ludwigia hyssopifolia (G.Don) Exell,534
+Ludwigia leptocarpa (Nutt.) H.Hara,535
+Ludwigia nervosa (Poir.) H.Hara,536
+Ludwigia octovalvis (Jacq.) P.H.Raven,537
+Geissospermum argenteum Woodson,538
+Geissospermum laeve (Vell.) Miers,539
+Agonandra silvatica Ducke,540
+Brassia lanceana Lindl.,541
+Himatanthus articulatus (Vahl) Woodson,542
+Lacmellea aculeata (Ducke) Monach.,543
+Cleistes rosea Lindl.,544
+Macoubea guianensis Aubl.,545
+Malouetia tamaquarina (Aubl.) A.DC.,546
+Mandevilla hirsuta (Rich.) K.Schum.,547
+Mandevilla rugellosa (Rich.) L.Allorge,548
+Mandevilla subspicata (Vahl) Markgr.,549
+Epidendrum nocturnum Jacq.,550
+Ionopsis utricularioides (Sw.) Lindl.,551
+Lepanthes cremersii Luer,552
+Odontadenia puncticulosa (Rich.) Pulle,553
+Masdevallia minuta Lindl.,554
+Parahancornia fasciculata (Poir.) Benoist,555
+Palmorchis prospectorum Veyret,556
+Pleurothallis lanceana Lodd.,557
+Pleurothallis ruscifolia (Jacq.) R.Br.,558
+Prescottia stachyodes (Sw.) Lindl.,559
+Justicia pectoralis Jacq.,560
+Trigonidium acuminatum Bateman ex Lindl.,561
+Averrhoa carambola L.,562
+Tabernaemontana undulata Vahl,563
+Piriqueta cistoides (L.) Griseb.,564
+Turnera aurantiaca Benth.,565
+Turnera guianensis Aubl.,566
+Turnera odorata Rich.,567
+Turnera rupestris Aubl.,568
+Turnera ulmifolia L.,569
+Sesamum indicum L.,570
+Ternstroemia dentata (Aubl.) Sw.,571
+Pogonophora schomburgkiana Miers ex Benth.,572
+Amanoa guianensis Aubl.,573
+Phyllanthus brasiliensis (Aubl.) Poir.,574
+Phyllanthus urinaria L.,575
+Microtea debilis Sw.,576
+Rivina humilis L.,577
+Peperomia macrostachya (Vahl) A.Dietr.,578
+Peperomia ouabianae C.DC.,579
+Peperomia pellucida (L.) Kunth,580
+Peperomia serpens (Sw.) Loudon,581
+Piper eucalyptifolium Rudge,582
+Piper hostmannianum (Miq.) C.DC.,583
+Piper marginatum Jacq.,584
+Piper obliquum Ruiz Pav.,585
+Piper peltatum L.,586
+Scoparia dulcis L.,587
+Plumbago auriculata Lam.,588
+Anthurium gracile (Rudge) Lindl.,589
+Anthurium jenmanii Engl.,590
+Anthurium pentaphyllum (Aubl.) G.Don,591
+Mourera fluviatilis Aubl.,592
+Moutabea guianensis Aubl.,593
+Securidaca diversifolia (L.) S.F.Blake,594
+Securidaca paniculata Rich.,595
+Caladium bicolor (Aiton) Vent.,596
+Campyloneurum repens (Aubl.) C. Presl,597
+Microgramma fuscopunctata (Hook.) Vareschi,598
+Microgramma lycopodioides (L.) Copel.,599
+Microgramma percussa (Cav.) de la Sota,600
+Microgramma reptans (Cav.) A.R. Sm.,601
+Niphidium crassifolium (L.) Lellinger,602
+Dieffenbachia parvifolia Engl.,603
+Dieffenbachia seguine (Jacq.) Schott,604
+Polypodium triseriale Sw.,605
+Dracontium polyphyllum L.,606
+Eichhornia crassipes (Mart.) Solms,607
+Portulaca grandiflora Hook.,608
+Heteropsis flexuosa (Kunth) G.S.Bunting,609
+Heteropsis tenuispadix G.S.Bunting,610
+Clavija lancifolia Desf.,611
+Monstera adansonii Schott,612
+Montrichardia arborescens (L.) Schott,613
+Panopsis sessilifolia (Rich.) Sandwith,614
+Roupala montana Aubl.,615
+Acrostichum aureum L.,616
+Acrostichum danaeifolium Langsd. Fisch.,617
+Adiantum argutum Splitg.,618
+Adiantum cajennense Willd. ex Klotzsch,619
+Adiantum glaucescens Klotzsch,620
+Adiantum latifolium Lam.,621
+Adiantum leprieurii Hook.,622
+Adiantum lucidum (Cav.) Sw.,623
+Adiantum obliquum Willd.,624
+Adiantum paraense Hieron.,625
+Adiantum petiolatum Desv.,626
+Philodendron fragrantissimum (Hook.) G.Don,627
+Adiantum pulverulentum L.,628
+Adiantum terminatum Kunze ex Miq.,629
+Adiantum tetraphyllum Humb. Bonpl. ex Willd.,630
+Anetium citrifolium (L.) Splitg.,631
+Ceratopteris thalictroides (L.) Brongn.,632
+Philodendron hederaceum (Jacq.) Schott,633
+Philodendron insigne Schott,634
+Philodendron linnaei Kunth,635
+Pityrogramma calomelanos (L.) Link,636
+Pteris altissima Poir.,637
+Pteris pungens Willd.,638
+Vittaria costata Kunze,639
+Vittaria lineata (L.) Sm.,640
+Philodendron ornatum Schott,641
+Philodendron pedatum (Hook.) Kunth,642
+Philodendron placidum Schott,643
+Philodendron rudgeanum Schott,644
+Philodendron solimoesense A.C.Sm.,645
+Philodendron squamiferum Poepp.,646
+Rapatea paludosa Aubl.,647
+Rhabdodendron amazonicum (Spruce ex Benth.) Huber,648
+Ziziphus jujuba Mill.,649
+Cassipourea guianensis Aubl.,650
+Syngonium podophyllum Schott,651
+Urospatha sagittifolia (Rudge) Schott,652
+Amaioua guianensis Aubl.,653
+Capirona decorticans Spruce,654
+Carapichea ligularis (Rudge) Delprete,655
+Chimarrhis microcarpa Standl.,656
+Chimarrhis turbinata DC.,657
+Chiococca nitida Benth.,658
+Coussarea spicata Delprete,659
+Duroia aquatica (Aubl.) Bremek.,660
+Faramea guianensis (Aubl.) Bremek.,661
+Geophila repens (L.) I.M.Johnst.,662
+Isertia spiciformis DC.,663
+Hydrocotyle umbellata L.,664
+Kutchubaea insignis Fisch. ex DC.,665
+Oreopanax capitatus (Jacq.) Decne. Planch.,666
+Mussaenda incana Wall.,667
+Palicourea amapaensis Steyerm.,668
+Palicourea croceoides Ham.,669
+Posoqueria longiflora Aubl.,670
+Psychotria ulviformis Steyerm.,671
+Randia armata (Sw.) DC.,672
+Rudgea bremekampiana Steyerm.,673
+Sabicea glabrescens Benth.,674
+Sabicea velutina Benth.,675
+Sipanea pratensis Aubl.,676
+"Schefflera morototoni (Aubl.) Maguire, Steyerm. Frodin",677
+Ertela trifolia (L.) Kuntze,678
+Galipea trifoliata Aubl.,679
+Hortia excelsa Ducke,680
+Zanthoxylum amapaense (Albuq.) P.G.Waterman,681
+Zanthoxylum paulae (Albuq.) P.G. Waterman,682
+Saccoloma inaequale (Kunze) Mett.,683
+Banara guianensis Aubl.,684
+Casearia acuminata DC.,685
+Casearia arborea (Rich.) Urb.,686
+Casearia combaymensis Tul.,687
+Casearia grandiflora Cambess.,688
+Casearia guianensis (Aubl.) Urb.,689
+Laetia procera (Poepp.) Eichler,690
+Ryania speciosa Vahl,691
+Salvinia auriculata Aubl.,692
+Phoradendron piperoides (Kunth) Trel.,693
+Astrocaryum murumuru Mart.,694
+Astrocaryum paramaca Mart.,695
+Astrocaryum sciophilum (Miq.) Pulle,696
+Astrocaryum vulgare Mart.,697
+Allophylus leucoclados Radlk.,698
+Cupania hirsuta Radlk.,699
+Cupania rubiginosa (Poir.) Radlk.,700
+Cupania scrobiculata Rich.,701
+Attalea maripa (Aubl.) Mart.,702
+Dimocarpus longan Lour.,703
+Bactris acanthocarpoides Barb.Rodr.,704
+Bactris aubletiana Trail,705
+Bactris brongniartii Mart.,706
+Bactris constanciae Barb.Rodr.,707
+Matayba arborescens (Aubl.) Radlk.,708
+Matayba laevigata Radlk.,709
+Matayba stenodictya Radlk.,710
+Bactris gastoniana Barb.Rodr.,711
+Paullinia pinnata L.,712
+Bactris maraja Mart.,713
+Pseudima frutescens (Aubl.) Radlk.,714
+Bactris oligocarpa Barb.Rodr.,715
+Bactris pliniana Granv. A.J.Hend.,716
+Bactris rhaphidacantha Wess.Boer,717
+Serjania grandifolia Sagot ex Radlk.,718
+Bactris simplicifrons Mart.,719
+Serjania paucidentata DC.,720
+Talisia carinata Radlk.,721
+Talisia hemidasya Radlk.,722
+Toulicia guianensis Aubl.,723
+Vouarana guianensis Aubl.,724
+Chrysophyllum argenteum Jacq.,725
+Chrysophyllum cainito L.,726
+Chrysophyllum cuneifolium (Rudge) A.DC.,727
+Chrysophyllum pomiferum (Eyma) T.D.Penn.,728
+Chrysophyllum sanguinolentum (Pierre) Baehni,729
+Chrysophyllum venezuelanense (Pierre) T.D.Penn.,730
+Ecclinusa guianensis Eyma,731
+Ecclinusa ramiflora Mart.,732
+Manilkara bidentata (A.DC.) A.Chev.,733
+Manilkara paraensis (Huber) Standl.,734
+Micropholis cayennensis T.D.Penn.,735
+Micropholis guyanensis (A.DC.) Pierre,736
+Micropholis melinoniana Pierre,737
+Micropholis obscura T.D.Penn.,738
+Pouteria cicatricata T.D.Penn.,739
+Pouteria eugeniifolia (Pierre) Baehni,740
+Pouteria filipes Eyma,741
+Pouteria gongrijpii Eyma,742
+Pouteria macrophylla (Lam.) Eyma,743
+Pouteria rodriguesiana Pires T.D.Penn.,744
+Pouteria sagotiana (Baill.) Eyma,745
+Pouteria speciosa (Ducke) Baehni,746
+Pouteria torta (Mart.) Radlk.,747
+Pouteria venosa (Mart.) Baehni,748
+Pradosia cochlearia (Lecomte) T.D.Penn.,749
+Pradosia ptychandra (Eyma) T.D.Penn.,750
+Sarcaulus brasiliensis (A.DC.) Eyma,751
+Schizaea elegans (Vahl) Sw.,752
+Schlegelia violacea Griseb.,753
+Selaginella conduplicata Spring,754
+Selaginella parkeri (Hook. Grev.) Spring,755
+Selaginella producta Baker,756
+Selaginella radiata Baker,757
+Selaginella revoluta Baker,758
+Selaginella sulcata (Desv. ex Poir.) Spring ex Mart.,759
+Picrolemma sprucei Hook.f.,760
+Simaba polyphylla (Cavalcante) W.W. Thomas,761
+Siparuna cristata (Poepp. Endl.) A.DC.,762
+Siparuna cuspidata (Tul.) A.DC.,763
+Siparuna decipiens (Tul.) A.DC.,764
+Siparuna guianensis Aubl.,765
+Siparuna poeppigii (Tul.) A. DC.,766
+Smilax siphilitica Humb. Bonpl. ex Willd.,767
+Brunfelsia guianensis Benth.,768
+Cestrum latifolium Lam.,769
+Lycianthes pauciflora (Vahl) Bitter,770
+Physalis angulata L.,771
+Physalis pubescens L.,772
+Schwenckia americana L.,773
+Solandra longiflora Tussac,774
+Solanum americanum Mill.,775
+Solanum asperum Rich.,776
+Solanum crinitum Lam.,777
+Solanum fulvidum Bitter,778
+Solanum jamaicense Mill.,779
+Solanum leucocarpon Dunal,780
+Solanum rugosum Dunal,781
+Solanum schlechtendalianum Walp.,782
+Solanum stramoniifolium Jacq.,783
+Solanum torvum Sw.,784
+Solanum velutinum Dunal,785
+Discophora guianensis Miers,786
+Styrax pallidus A.DC.,787
+Tectaria incisa Cav.,788
+Tectaria plantaginea (Jacq.) Maxon,789
+Tectaria trifoliata (L.) Cav.,790
+Triplophyllum funestum (Kunze) Holttum,791
+Desmoncus orthacanthos Mart.,792
+Desmoncus polyacanthos Mart.,793
+Thelypteris abrupta (Desv.) Proctor,794
+Thelypteris decussata (L.) Proctor,795
+Thelypteris glandulosa (Desv.) Proctor,796
+Thelypteris serrata (Cav.) Alston,797
+Euterpe oleracea Mart.,798
+Geonoma baculifera (Poit.) Kunth,799
+Geonoma deversa (Poit.) Kunth,800
+Ampelocera edentula Kuhlm.,801
+Geonoma maxima (Poit.) Kunth,802
+Cecropia sciadophylla Mart.,803
+Geonoma stricta (Poit.) Kunth,804
+Coussapoa angustifolia Aubl.,805
+Coussapoa latifolia Aubl.,806
+Pilea imparifolia Wedd.,807
+Hyospathe elegans Mart.,808
+Pourouma bicolor Mart.,809
+Pourouma guianensis Aubl.,810
+Pourouma minor Benoist,811
+Pourouma saulensis C.C. Berg Kooy,812
+Pourouma velutina Mart. ex Miq.,813
+Duranta erecta L.,814
+Lantana camara L.,815
+Petrea bracteata Steud.,816
+Petrea volubilis L.,817
+Priva lappulacea (L.) Pers.,818
+Stachytarpheta cayennensis (Rich.) Vahl,819
+Stachytarpheta jamaicensis (L.) Vahl,820
+Paypayrola hulkiana Pulle,821
+Rinorea amapensis Hekking,822
+Rinorea flavescens (Aubl.) Kuntze,823
+Rinorea guianensis Aubl.,824
+Rinorea pubiflora (Benth.) Sprague Sandwith,825
+Mauritia flexuosa L.f.,826
+Vochysia guianensis Aubl.,827
+Alpinia galanga (L.) Willd.,828
+Curcuma longa L.,829
+Etlingera elatior (Jack) R.M.Sm.,830
+Renealmia floribunda K.Schum.,831
+Renealmia orinocensis Rusby,832
+Socratea exorrhiza (Mart.) H.Wendl.,833
+Syagrus inajai (Spruce) Becc.,834
+Aristolochia iquitensis O.C.Schmidt,835
+Ruellia rubra Aubl.,836
+Ruellia tuberosa L.,837
+Asplenium abscissum Willd.,838
+Asystasia gangetica (L.) T.Anderson,839
+Asplenium hostmannii Hieron.,840
+Asplenium juglandifolium Lam.,841
+Asplenium rutaceum (Willd.) Mett.,842
+Asplenium serratum L.,843
+Diplazium cristatum (Desr.) Alston,844
+Diplazium expansum Willd.,845
+Diplazium grandifolium (Sw.) Sw.,846
+Helosis cayennensis (Sw.) Spreng.,847
+Begonia glabra Aubl.,848
+Adenocalymma moringifolium (DC.) L.G.Lohmann,849
+Adenocalymma neoflavidum L.G.Lohmann,850
+Adenocalymma racemosum (A.H.Gentry) L.G.Lohmann,851
+Amphilophium elongatum (Vahl) L.G.Lohmann,852
+Amphilophium magnoliifolium (Kunth) L.G.Lohmann,853
+Bignonia aequinoctialis L.,854
+Bignonia corymbosa (Vent.) L.G.Lohmann,855
+Callichlamys latifolia (Rich.) K. Schum.,856
+Crescentia cujete L.,857
+Cuspidaria inaequalis (DC. ex Splitg.) L.G.Lohmann,858
+Dolichandra unguis-cati (L.) L.G.Lohmann,859
+Fridericia candicans (Rich.) L.G.Lohmann,860
+Fridericia oligantha (Bureau K.Schum.) L.G.Lohmann,861
+Handroanthus serratifolius (Vahl) S.O.Grose,862
+Jacaranda copaia (Aubl.) D.Don,863
+Kigelia africana (Lam.) Benth.,864
+Lundia corymbifera (Vahl) Sandwith,865
+Mansoa alliacea (Lam.) A.H.Gentry,866
+Mansoa standleyi (Steyerm.) A.H.Gentry,867
+Tabebuia insignis (Miq.) Sandwith,868
+Tanaecium pyramidatum (Rich.) L.G.Lohmann,869
+Tecoma capensis (Thunb.) Lindl.,870
+Bixa orellana L.,871
+Cochlospermum orinocense (Kunth) Steud.,872
+Blechnum serrulatum Rich.,873
+Lindackeria paludosa (Benth.) Gilg,874
+Mayna odorata Aubl.,875
+Cordia nodosa Lam.,876
+Aechmea aquilega (Salisb.) Griseb.,877
+Aechmea mertensii (G.Mey.) Schult. Schult.f.,878
+Araeococcus micranthus Brongn.,879
+Billbergia violacea Beer,880
+Guzmania lingulata (L.) Mez,881
+Tillandsia bulbosa Hook.,882
+Tillandsia monadelpha (E.Morren) Baker,883
+Burmannia bicolor Mart.,884
+Protium apiculatum Swart,885
+Protium decandrum (Aubl.) Marchand,886
+Protium heptaphyllum (Aubl.) Marchand,887
+Protium opacum Swart,888
+Protium polybotryum (Turcz.) Engl.,889
+Protium sagotianum Marchand,890
+Protium subserratum (Engl.) Engl.,891
+Protium tenuifolium (Engl.) Engl.,892
+Protium trifoliolatum Engl.,893
+Tetragastris altissima (Aubl.) Swart,894
+Tetragastris panamensis (Engl.) Kuntze,895
+Cabomba aquatica Aubl.,896
+Epiphyllum phyllanthus (L.) Haw.,897
+Rhipsalis baccifera (J.S.Muell.) Stearn,898
+Caraipa densifolia Mart.,899
+Mahurea palustris Aubl.,900
+Mammea americana L.,901
+Centropogon cornutus (L.) Druce,902
+Cinnamodendron tenuifolium Uittien,903
+Trema micrantha (L.) Blume,904
+Canna indica L.,905
+Crateva tapia L.,906
+Cynophalla polyantha (Triana Planch.) Cornejo Iltis,907
+Dendrobangia boliviana Rusby,908
+Carica papaya L.,909
+Caryocar glabrum (Aubl.) Pers.,910
+Caryocar microcarpum Ducke,911
+Caryocar nuciferum L.,912
+Caryocar villosum (Aubl.) Pers.,913
+Barleria repens Nees,914
+Cheiloclinium cognatum (Miers) A.C.Sm.,915
+Maytenus oblongata Reissek,916
+Acioa guianensis Aubl.,917
+Chrysobalanus icaco L.,918
+Couepia bracteosa Benth.,919
+Couepia caryophylloides Benoist,920
+Couepia excelsa Ducke,921
+Couepia guianensis Aubl.,922
+Couepia joaquinae Prance,923
+Couepia parillo DC.,924
+Exellodendron barbatum (Ducke) Prance,925
+Hirtella bicornis Mart. Zucc.,926
+Hirtella davisii Sandwith,927
+Hirtella glandulosa Spreng.,928
+Hirtella hispidula Miq.,929
+Hirtella margae Prance,930
+Hirtella paniculata Sw.,931
+Hirtella physophora Mart. Zucc.,932
+Hirtella racemosa Lam.,933
+Hirtella tenuifolia Prance,934
+Licania alba (Bernoulli) Cuatrec.,935
+Licania amapaensis Prance,936
+Licania canescens Benoist,937
+Licania granvillei Prance,938
+Licania guianensis (Aubl.) Griseb.,939
+Licania heteromorpha Benth.,940
+Licania kunthiana Hook.f.,941
+Licania latistipula Prance,942
+Licania leptostachya Benth.,943
+Licania majuscula Sagot,944
+Licania membranacea Sagot ex Laness.,945
+Licania micrantha Miq.,946
+Licania minutiflora (Sagot) Fritsch,947
+Parinari campestris Aubl.,948
+Parinari excelsa Sabine,949
+Cleome rutidosperma DC.,950
+Calophyllum brasiliense Cambess.,951
+Clusia flavida (Benth.) Pipoly,952
+Clusia fockeana Miq.,953
+Clusia grandiflora Splitg.,954
+Clusia nemorosa G.Mey.,955
+Clusia panapanari (Aubl.) Choisy,956
+Clusia purpurea (Splitg.) Engl.,957
+Clusia scrobiculata Benoist,958
+Garcinia benthamiana (Planch. Triana) Pipoly,959
+Garcinia macrophylla Mart.,960
+Garcinia madruno (Kunth) Hammel,961
+Moronobea coccinea Aubl.,962
+Platonia insignis Mart.,963
+Symphonia globulifera L.f.,964
+Tovomita longifolia (Rich.) Hochr.,965
+Tovomita schomburgkii Planch. Triana,966
+Tovomita umbellata Benth.,967
+Sesuvium portulacastrum (L.) L.,968
+Combretum indicum (L.) DeFilipps,969
+Combretum rotundifolium Rich.,970
+Conocarpus erectus L.,971
+Terminalia amazonia (J.F.Gmel.) Exell,972
+Commelina erecta L.,973
+Commelina rufipes Seub.,974
+Dichorisandra hexandra (Aubl.) Standl.,975
+Floscopa peruviana Hassk. ex C.B.Clarke,976
+Ayapana amygdalina (Lam.) R.M.King H.Rob.,977
+Bidens cynapiifolia Kunth,978
+Centratherum punctatum Cass.,979
+Alternanthera brasiliana (L.) Kuntze,980
+Chromolaena odorata (L.) R.M.King H.Rob.,981
+Clibadium surinamense L.,982
+Alternanthera sessilis (L.) R.Br. ex DC.,983
+Cyanthillium cinereum (L.) H.Rob.,984
+Eclipta prostrata (L.) L.,985
+Elephantopus mollis Kunth,986
+Emilia fosbergii Nicolson,987
+Erechtites hieraciifolius (L.) Raf. ex DC.,988
+Cyathula prostrata (L.) Blume,989
+Ichthyothere terminalis (Spreng.) S.F.Blake,990
+Mikania micrantha Kunth,991
+Piptocarpha triflora (Aubl.) Benn. ex Baker,992
+Rolandra fruticosa (L.) Kuntze,993
+Sphagneticola trilobata (L.) Pruski,994
+Struchium sparganophorum (L.) Kuntze,995
+Synedrella nodiflora (L.) Gaertn.,996
